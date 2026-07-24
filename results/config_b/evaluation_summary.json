@@ -1,0 +1,10 @@
+{
+  "checkpoint": "models/config_b/best.pt",
+  "evaluation_epsilon": 0.0,
+  "episodes": 20,
+  "successes": 20,
+  "success_rate": 1.0,
+  "mean_reward": 13.164112086591922,
+  "mean_episode_length": 19.25,
+  "mean_final_absolute_error": 0.005626519085392398
+}

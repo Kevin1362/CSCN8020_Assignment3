@@ -1,0 +1,15 @@
+{
+  "config_name": "config_a",
+  "epsilon_decay": 0.995,
+  "seed": 42,
+  "device": "cpu",
+  "episodes_requested": 650,
+  "episodes_completed": 650,
+  "training_seconds": 153.83701193100023,
+  "training_minutes": 2.5639501988500037,
+  "final_epsilon": 0.05,
+  "mean_reward_final_20": 14.563079979492978,
+  "training_success_rate_final_50": 1.0,
+  "optimization_steps": 18118,
+  "stop_reason": "episode_cap"
+}

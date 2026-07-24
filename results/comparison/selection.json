@@ -1,0 +1,6 @@
+{
+  "selected_configuration": "config_a",
+  "source_checkpoint": "models/config_a/best.pt",
+  "selected_checkpoint": "models/selected_dqn.pt",
+  "selection_rule": "Highest greedy evaluation success rate; ties broken by final-50 training success rate, then mean evaluation reward, then shorter training time."
+}

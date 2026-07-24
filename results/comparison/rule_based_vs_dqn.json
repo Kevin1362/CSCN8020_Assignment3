@@ -1,0 +1,22 @@
+{
+  "selected_configuration": "config_a",
+  "rule_based": {
+    "goal": "Overall",
+    "episodes": 20,
+    "successes": 20,
+    "success_rate": 1.0,
+    "mean_reward": 12.866629067342728,
+    "mean_episode_length": 24.0,
+    "mean_final_absolute_error": 0.012209044417276146
+  },
+  "selected_dqn": {
+    "checkpoint": "models/config_a/best.pt",
+    "evaluation_epsilon": 0.0,
+    "episodes": 20,
+    "successes": 20,
+    "success_rate": 1.0,
+    "mean_reward": 13.21360116743017,
+    "mean_episode_length": 21.0,
+    "mean_final_absolute_error": 0.003965811499570163
+  }
+}

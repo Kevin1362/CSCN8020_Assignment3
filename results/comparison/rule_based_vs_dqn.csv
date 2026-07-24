@@ -1,0 +1,6 @@
+metric,rule_based_policy,selected_dqn
+Successes / 20,20,20
+Success rate,1.0,1.0
+Mean cumulative reward,12.866629067342728,13.21360116743017
+Mean episode length,24.0,21.0
+Mean final absolute error,0.012209044417276146,0.003965811499570163
