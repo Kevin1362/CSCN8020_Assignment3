@@ -613,7 +613,7 @@ The comparison considers:
 
 The video shows the trained DQN controlling the Unitree G1 robot using the selected checkpoint and greedy evaluation with `epsilon = 0.0`.
 
-[Click here to watch the DQN demonstration video]([PASTE_YOUR_FULL_SHAREPOINT_LINK_HERE](https://stuconestogacon-my.sharepoint.com/:v:/g/personal/kpatel8612_conestogac_on_ca/IQC4N7XfK695RZ9SIz2gEn9dATfM0R9nSIaJ8JpY_JP6Oi0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=raY75s))
+[Click here to watch the DQN demonstration video]((https://stuconestogacon-my.sharepoint.com/:v:/g/personal/kpatel8612_conestogac_on_ca/IQC4N7XfK695RZ9SIz2gEn9dATfM0R9nSIaJ8JpY_JP6Oi0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=raY75s))
 
 
 ## Experimental Results
